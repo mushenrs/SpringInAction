@@ -1,0 +1,4 @@
+AbstractAnnotationConfigDispatcherServletInitializer
+javax.servlet.ServletContainerInitializer
+org.springframework.web.SpringServletContainerInitializer
+WebApplicationInitializer
